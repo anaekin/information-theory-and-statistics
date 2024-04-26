@@ -1,0 +1,5 @@
+Compression Algorithm,Compression Ratio,Compression Time (seconds),Decompression Time (seconds),Space Savings (%)
+Huffman Coding,1.75,40.6433,59.8078,42.8
+Lemel-Ziv-Welch,2.57,110.2624,98.6991,61.1
+Burrow-Wheeler Transform,3.51,1039.45,1411.0093,71.5
+Arithmetic Coding,1.76,1225.9669,3011.2957,43.2
